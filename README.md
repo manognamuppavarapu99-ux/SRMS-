@@ -1,25 +1,25 @@
 # student-record-management-system
-  # Student Record Management System
+# Student Record Management System
 
-## 📌 Overview
+##  Overview
 This is a C++ based application to manage student records efficiently.
 
-## 🚀 Features
+##  Features
 - Add new student records
 - Update existing records
 - Delete records
 - Search functionality
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - C++
 
-## ▶️ How to Run
+##  How to Run
 1. Compile the code using a C++ compiler
 2. Run the executable file
 
-## 📂 Project Structure
+##  Project Structure
 - main.cpp
 - other source files
 
-## 👩‍💻 Author
+##  Author
 Manogna
